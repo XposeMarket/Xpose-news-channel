@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sample-001",
+    "source": "Example News",
+    "title": "Example headline about a market update",
+    "url": "https://example.com/news/sample-001",
+    "published_at": "2026-03-09T12:00:00Z",
+    "topic": "markets",
+    "summary": "A short summary of the headline used for testing the pipeline.",
+    "symbols": ["SPY"],
+    "region": "US",
+    "lang": "en"
+  },
+  {
+    "id": "sample-002",
+    "source": "Example Wire",
+    "title": "Policy makers announce new proposal",
+    "url": "https://example.com/news/sample-002",
+    "published_at": "2026-03-09T15:30:00Z",
+    "topic": "policy",
+    "summary": "Placeholder record demonstrating a second item in the cleaned feed.",
+    "symbols": [],
+    "region": "US",
+    "lang": "en"
+  },
+  {
+    "id": "sample-003",
+    "source": "Example Local",
+    "title": "Tech company reports quarterly earnings",
+    "url": "https://example.com/news/sample-003",
+    "published_at": "2026-03-09T16:45:00Z",
+    "topic": "technology",
+    "summary": "Sample earnings headline used to validate parsing, deduping, and rendering.",
+    "symbols": ["AAPL"],
+    "region": "US",
+    "lang": "en"
+  }
+]
